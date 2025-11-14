@@ -32,7 +32,8 @@ Suspicious Element: The subject line and body contain extreme threats like "URGE
 
 
 
-Tactic: Social Engineering (Fear/Pressure). This tactic aims to create panic, forcing the recipient to click the link without taking time for critical assessment. Legitimate security teams typically do not issue such immediate, non-negotiable threats via an unverified initial email.
+Tactic: Social Engineering (Fear/Pressure). 
+This tactic aims to create panic, forcing the recipient to click the link without taking time for critical assessment. Legitimate security teams typically do not issue such immediate, non-negotiable threats via an unverified initial email.
 
 
 
@@ -44,7 +45,8 @@ Suspicious Element: The email is riddled with errors, including Empolyee, unuaua
 
 
 
-Tactic: Unprofessionalism. A legitimate corporate IT department would thoroughly proofread high-stakes security notices. The sheer number of errors is a major red flag.
+Unprofessionalism. 
+A legitimate corporate IT department would thoroughly proofread high-stakes security notices. The sheer number of errors is a major red flag.
 
 
 
@@ -56,7 +58,7 @@ Suspicious Element: The greeting is "Dear Valued Empolyee" and the sender is lis
 
 
 
-Tactic: Lack of Personalization \& Domain Spoofing. Official security warnings are nearly always addressed to the recipient by name. Furthermore, the sender domain (cormany-corp.net) does not match the company's presumed domain (company-corp.com), using a confusingly similar domain to deceive the user.
+Lack of Personalization & Domain Spoofing. Official security warnings are nearly always addressed to the recipient by name. Furthermore, the sender domain (cormany-corp.net) does not match the company's presumed domain (company-corp.com), using a confusingly similar domain to deceive the user.
 
 
 
@@ -109,4 +111,5 @@ Use a Trusted Channel: If you are unsure about the status of your account, conta
 
 
 Delete: Permanently delete the email from your inbox and deleted items folder.
+
 
