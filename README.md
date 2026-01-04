@@ -27,6 +27,6 @@ The primary goal of this exercise was to practice identifying advanced social en
 
 -README Creation (Current Step): The final analysis report and the original sample were consolidated into this README.md file along with the process log.
 
-       PS:- (FIRST I USED ONLINE SEARCH RESULTS AND TOOK HELP OF AI TO CREATE MY OWN SAMPLE OF THE PHISHING EMAIL INSTEAD OF USING ONE THAT I FOUND SOMEWHERE)
+        PS:- (FIRST I USED ONLINE SEARCH RESULTS AND TOOK HELP OF AI TO CREATE MY OWN SAMPLE OF THE PHISHING EMAIL INSTEAD OF USING ONE THAT I FOUND ORGANICALLY)
 
 ---
