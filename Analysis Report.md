@@ -35,7 +35,7 @@ This tactic aims to create panic, forcing the recipient to click the link withou
 
 
 
-2\. Typographical and Grammatical Errors
+### 2\. Typographical and Grammatical Errors
 
 
 
@@ -48,7 +48,7 @@ A legitimate corporate IT department would thoroughly proofread high-stakes secu
 
 
 
-3\. Suspicious Sender and Generic Greeting
+### 3\. Suspicious Sender and Generic Greeting
 
 
 
@@ -60,7 +60,7 @@ Lack of Personalization & Domain Spoofing. Official security warnings are nearly
 
 
 
-4\. Malicious Link for Credential Harvesting
+### 4\. Malicious Link for Credential Harvesting
 
 
 
@@ -72,7 +72,7 @@ Tactic: Credential Harvesting. The URL reveals the attempt. By hovering over the
 
 
 
-5\. Dangerous Attachment for Malware Delivery
+### 5\. Dangerous Attachment for Malware Delivery
 
 
 
@@ -88,7 +88,7 @@ Tactic: Malware Delivery. The .exe extension signifies an executable file (a pro
 
 
 
-### III. Recommended Security Action-
+## III. Recommended Security Action-
 
 
 
@@ -112,4 +112,5 @@ Delete: Permanently delete the email from your inbox and deleted items folder.
 
 
 ---
+
 
